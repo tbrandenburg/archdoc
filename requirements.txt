@@ -1,0 +1,16 @@
+sphinx
+sphinx-rtd-theme
+sphinxcontrib-plantuml
+docutils
+jinja2
+pygments
+alabaster
+babel
+imagesize
+snowballstemmer
+sphinxcontrib-applehelp
+sphinxcontrib-devhelp
+sphinxcontrib-htmlhelp
+sphinxcontrib-jsmath
+sphinxcontrib-qthelp
+sphinxcontrib-serializinghtml
